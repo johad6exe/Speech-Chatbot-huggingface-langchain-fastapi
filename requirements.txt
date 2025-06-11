@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydub
+python-multipart 
+python-dotenv
+transformers
+torch
+sentencepiece 
+accelerate  
+langchain
+scipy
